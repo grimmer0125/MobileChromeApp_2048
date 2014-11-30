@@ -1,0 +1,1 @@
+{"name":"2048","description":"A simple weather application.","manifest_version":2,"version":"1.0.7","minimum_chrome_version":"23","app":{"background":{"scripts":["main.js"]}},"icons":{"16":"img/icon.png","64":"img/icon.png","128":"img/icon.png"},"permissions":["storage","<all_urls>"],"packageId":"com.your.company.HelloWorld","versionCode":1,"CFBundleVersion":"1.1.1"}
